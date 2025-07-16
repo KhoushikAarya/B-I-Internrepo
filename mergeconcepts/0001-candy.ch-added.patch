@@ -1,0 +1,24 @@
+From e62ddb47bf2bb1927b83c1ba1d85537e67137395 Mon Sep 17 00:00:00 2001
+From: Krixen09 <dhanunjay09x@gmail.com>
+Date: Wed, 16 Jul 2025 15:44:00 +0530
+Subject: [PATCH] candy.ch added
+
+---
+ mergeconcepts/candy.ch | 5 +++++
+ 1 file changed, 5 insertions(+)
+ create mode 100644 mergeconcepts/candy.ch
+
+diff --git a/mergeconcepts/candy.ch b/mergeconcepts/candy.ch
+new file mode 100644
+index 0000000..e0cde45
+--- /dev/null
++++ b/mergeconcepts/candy.ch
+@@ -0,0 +1,5 @@
++chocolates
++candies
++ice cream
++strawberry
++
+-- 
+2.43.0.windows.1
+
